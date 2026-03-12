@@ -6,6 +6,7 @@
 
 - [CRS.md](/home/yklee/repos/devops_assistant/docs/requirements/CRS.md): KPI 12개, 테스트 7종, 품질 4종의 탭 배치 요구를 포함한 고객 요구사항 문서
 - [SRS.md](/home/yklee/repos/devops_assistant/docs/requirements/SRS.md): KPI 12개, 테스트 7종, 품질 4종의 탭별 표시 구조와 메인 대시보드, 프로젝트 목록/상세, 상단 검색, 시계열/조직 필터, 개인 할 일, 경고/알림 요구를 분석한 소프트웨어 요구사항 문서
+- [PROJECT_PROPOSAL.md](/home/yklee/repos/devops_assistant/docs/proposals/PROJECT_PROPOSAL.md): 과제 발의용 계획서
 - [main_dashboard_sketch.svg](/home/yklee/repos/devops_assistant/samples/main_dashboard_sketch.svg): 메인 페이지 UI 스케치
 - [version.md](/home/yklee/repos/devops_assistant/version.md): 현재 개발 버전 정보
 
